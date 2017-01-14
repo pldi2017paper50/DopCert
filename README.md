@@ -1,16 +1,17 @@
 DopCert
 =======
+### The Project
+
+*hott/* contains all the code code
+
+*dsl/* contains all the front end parser code (in haskell).
 
 ### Running DopCert
 
 [Docker][docker] is the most reliable way to get Cosette running. To download a compiled version of Cosette and all its dependencies run (running this command for the first time may take a while):
 
      docker pull konne/cosette
-     
-You can test that Cosette works correctly by running an example application that TODO:
-
-    docker run konne/cosette TODO
- 
+    
 ### Building Cosette
 
 To locally build Cosette and all its dependencies using Docker, run (running this command for the first
