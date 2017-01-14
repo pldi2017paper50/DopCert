@@ -2,7 +2,7 @@ DopCert
 =======
 ### The Project
 
-*hott/* contains all the coq code
+*hott/* contains all the coq code.
 
 *dsl/* contains all the front end parser code (in haskell).
 
