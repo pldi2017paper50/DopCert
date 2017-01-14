@@ -8,7 +8,7 @@ DopCert
 
 ### Running DopCert
 
-[Docker][docker] is the most reliable way to get Cosette running. To download a compiled version of Cosette and all its dependencies run (running this command for the first time may take a while):
+[Docker][docker] is the most reliable way to get DopCert running. To download a compiled version of Cosette and all its dependencies run (running this command for the first time may take a while):
 
      docker pull konne/cosette
     
